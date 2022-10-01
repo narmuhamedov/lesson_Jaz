@@ -85,7 +85,7 @@ print(f'В универ пошли - {univer}\n'
 # def summa(a,b,c):
 #     return a+b+c/2
 #
-# print(summa(1,3,4))fffff
+# print(summa(1,3,4))fffffcdcdsc
 
 
 # def greeting(surname, name):
